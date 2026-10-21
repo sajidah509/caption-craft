@@ -1,0 +1,6 @@
+{
+  "name": "SocialCaption Compose",
+  "description": "Android Jetpack Compose application for generating funny, professional, and question-based captions with hashtags using Gemini API image analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
